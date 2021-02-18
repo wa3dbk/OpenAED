@@ -1,0 +1,5 @@
+0.000000	3.612903	train_horn
+3.922581	5.032258	train_horn
+6.477419	7.535484	train_horn
+7.535484	8.670968	train_horn
+8.761290	10.000000	train_horn

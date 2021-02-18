@@ -1,0 +1,5 @@
+0.051613	2.270968	child_singing
+2.387097	3.470968	child_singing
+3.535484	5.174194	clapping
+6.774194	8.696774	child_singing
+8.748387	9.122581	clapping

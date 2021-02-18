@@ -1,0 +1,4 @@
+0.077419	0.903226	clapping
+4.541935	4.864516	clapping
+5.625806	5.935484	clapping
+6.064516	7.832258	female_singing
