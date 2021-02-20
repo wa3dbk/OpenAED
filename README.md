@@ -5,7 +5,7 @@ A collection of manually annotated audio files for acoustic event detection (AED
 The annotations are based on the  __[AudioSet ontology](https://research.google.com/audioset/ontology/index.html)__ (10-second segments from YouTube).
 
 
-## Supported classes :
+## Supported classes 
 For the time being, these are the supported acoustic events : 
 - :dog2: Bark (80 files)
 - :bird: Bird (289 files)
@@ -15,7 +15,9 @@ For the time being, these are the supported acoustic events :
 - :train2: Train horn (266 files)
 
 
-#### Filenames :
+## Annotation format 
+
+### Filenames 
 Annotation files are named after their corresponding YouTube videos : 
 
 *- Format :*
@@ -27,7 +29,7 @@ k1swpimPFxY_30000_40000.txt
 Corresponds to second 30 to second 40 in the video youtu.be/k1swpimPFxY
 
 
-#### Annotation format :
+### Annotation files format
 The annotation files follow this format :
  
 <start-time> <end-time> <acoustic-event>
