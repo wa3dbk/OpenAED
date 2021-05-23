@@ -36,7 +36,7 @@ The annotation files follow this format :
 
 *- Example :*
 ```
->$ head -3 data/annotations/Bark/0gkLHfHJSnI_80000_90000.txt 
+>$ head -3 data/annotation/Bark/0gkLHfHJSnI_80000_90000.txt 
 
 0.490323 2.012903 speech
 1.754839 2.012903 bark
